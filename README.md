@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0605-can-place-flowers](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
 ## Greedy
 |  |
@@ -19,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
