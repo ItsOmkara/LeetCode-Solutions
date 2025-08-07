@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0016-3sum-closest) |
+| [0053-maximum-subarray](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0238-product-of-array-except-self](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0283-move-zeroes) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
+| [0053-maximum-subarray](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0392-is-subsequence](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Hash Table
@@ -131,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0175-combine-two-tables) |
 | [0197-rising-temperature](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0197-rising-temperature) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
