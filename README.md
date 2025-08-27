@@ -48,6 +48,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0058-length-of-last-word](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0290-word-pattern](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0290-word-pattern) |
@@ -78,6 +79,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0290-word-pattern](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1319-unique-number-of-occurrences](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1319-unique-number-of-occurrences) |
@@ -137,6 +139,7 @@
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
