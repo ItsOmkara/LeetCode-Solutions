@@ -178,6 +178,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0190-reverse-bits](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 ## Memoization
 |  |
 | ------- |
@@ -190,4 +191,8 @@
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
