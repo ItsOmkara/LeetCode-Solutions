@@ -73,6 +73,7 @@
 | [0541-reverse-string-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2470-removing-stars-from-a-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Prefix Sum
@@ -104,6 +105,7 @@
 | [1392-find-the-difference-of-two-arrays](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2428-equal-row-and-column-pairs](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3206-find-common-elements-between-two-arrays) |
 ## Sorting
@@ -136,6 +138,7 @@
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 ## Matrix
 |  |
 | ------- |
