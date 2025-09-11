@@ -68,6 +68,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0394-decode-string) |
+| [0415-add-strings](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
@@ -146,6 +147,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [2428-equal-row-and-column-pairs](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2470-removing-stars-from-a-string) |
@@ -170,6 +172,7 @@
 | [0066-plus-one](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0415-add-strings](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [3201-distribute-candies-among-children-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3201-distribute-candies-among-children-ii) |
 ## Combinatorics
 |  |
