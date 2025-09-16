@@ -78,6 +78,7 @@
 | [0434-number-of-segments-in-a-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
+| [0812-rotate-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0812-rotate-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
@@ -226,4 +227,8 @@
 | ------- |
 | [0136-single-number](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0190-reverse-bits) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
