@@ -27,6 +27,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1833-find-the-highest-altitude) |
@@ -57,6 +58,7 @@
 | [0392-is-subsequence](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 ## String
 |  |
@@ -124,6 +126,7 @@
 | [0217-contains-duplicate](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Sliding Window
@@ -142,6 +145,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1046-max-consecutive-ones-iii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## Counting
 |  |
 | ------- |
