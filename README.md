@@ -65,6 +65,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
+| [0022-generate-parentheses](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
@@ -96,6 +97,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
@@ -231,4 +233,8 @@
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0812-rotate-string) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
