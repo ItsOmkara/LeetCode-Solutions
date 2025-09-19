@@ -24,6 +24,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
+| [0979-di-string-match](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0979-di-string-match) |
 | [1046-max-consecutive-ones-iii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -40,6 +41,7 @@
 | [0011-container-with-most-water](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
+| [0979-di-string-match](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0979-di-string-match) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,6 +60,7 @@
 | [0392-is-subsequence](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
+| [0979-di-string-match](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0979-di-string-match) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 ## String
@@ -81,6 +84,7 @@
 | [0443-string-compression](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
 | [0812-rotate-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0812-rotate-string) |
+| [0979-di-string-match](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0979-di-string-match) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
