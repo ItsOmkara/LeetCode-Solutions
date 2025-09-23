@@ -14,6 +14,7 @@
 | [0118-pascals-triangle](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0283-move-zeroes) |
@@ -114,6 +115,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
+| [0169-majority-element](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0290-word-pattern) |
@@ -134,6 +136,7 @@
 | [0015-3sum](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0018-4sum) |
+| [0169-majority-element](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -160,6 +163,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
@@ -220,6 +224,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 ## Memoization
 |  |
