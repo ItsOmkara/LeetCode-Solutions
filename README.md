@@ -56,6 +56,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -118,6 +119,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0169-majority-element](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0290-word-pattern) |
@@ -204,6 +206,7 @@
 | [0069-sqrtx](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0415-add-strings](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [3201-distribute-candies-among-children-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3201-distribute-candies-among-children-ii) |
 ## Combinatorics
