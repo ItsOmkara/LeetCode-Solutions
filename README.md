@@ -36,6 +36,7 @@
 | [1833-find-the-highest-altitude](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1833-find-the-highest-altitude) |
 | [2428-equal-row-and-column-pairs](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2547-odd-string-difference](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2547-odd-string-difference) |
+| [2668-form-smallest-number-from-two-digit-arrays](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2881-split-strings-by-separator](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2881-split-strings-by-separator) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3206-find-common-elements-between-two-arrays) |
 ## Greedy
@@ -135,6 +136,7 @@
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2428-equal-row-and-column-pairs](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2547-odd-string-difference](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2547-odd-string-difference) |
+| [2668-form-smallest-number-from-two-digit-arrays](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3206-find-common-elements-between-two-arrays) |
 ## Sorting
 |  |
@@ -219,6 +221,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2668-form-smallest-number-from-two-digit-arrays](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [3201-distribute-candies-among-children-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3201-distribute-candies-among-children-ii) |
 ## Database
 |  |
