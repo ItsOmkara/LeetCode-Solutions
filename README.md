@@ -39,6 +39,7 @@
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2881-split-strings-by-separator](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2881-split-strings-by-separator) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3429-special-array-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3429-special-array-i) |
 ## Greedy
 |  |
 | ------- |
