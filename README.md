@@ -104,6 +104,7 @@
 | [2547-odd-string-difference](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2547-odd-string-difference) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2881-split-strings-by-separator](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2881-split-strings-by-separator) |
+| [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -143,6 +144,7 @@
 | [2547-odd-string-difference](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2547-odd-string-difference) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -182,6 +184,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
+| [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 ## Matrix
 |  |
 | ------- |
