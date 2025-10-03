@@ -34,6 +34,7 @@
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1651-shuffle-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1651-shuffle-string) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1833-find-the-highest-altitude) |
 | [2428-equal-row-and-column-pairs](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2428-equal-row-and-column-pairs) |
@@ -99,6 +100,7 @@
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1651-shuffle-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1651-shuffle-string) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2470-removing-stars-from-a-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2547-odd-string-difference](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2547-odd-string-difference) |
