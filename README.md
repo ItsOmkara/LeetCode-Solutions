@@ -32,6 +32,7 @@
 | [1319-unique-number-of-occurrences](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1651-shuffle-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -139,6 +140,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1319-unique-number-of-occurrences](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
@@ -184,6 +186,7 @@
 | [0169-majority-element](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
