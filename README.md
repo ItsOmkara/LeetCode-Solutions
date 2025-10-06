@@ -19,6 +19,7 @@
 | [0189-rotate-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -133,6 +134,7 @@
 | [0202-happy-number](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -158,6 +160,7 @@
 | [0088-merge-sorted-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
@@ -176,6 +179,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1046-max-consecutive-ones-iii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
@@ -226,6 +230,7 @@
 | [0070-climbing-stairs](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [3201-distribute-candies-among-children-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3201-distribute-candies-among-children-ii) |
 ## Combinatorics
@@ -271,6 +276,7 @@
 | [0067-add-binary](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0190-reverse-bits) |
+| [0268-missing-number](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## String Matching
 |  |
 | ------- |
