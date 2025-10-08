@@ -41,6 +41,7 @@
 | [1798-max-number-of-k-sum-pairs](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1833-find-the-highest-altitude) |
 | [2102-find-the-middle-index-in-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2102-find-the-middle-index-in-array) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2547-odd-string-difference](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2547-odd-string-difference) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
@@ -169,6 +170,7 @@
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -187,6 +189,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1046-max-consecutive-ones-iii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Counting
 |  |
 | ------- |
