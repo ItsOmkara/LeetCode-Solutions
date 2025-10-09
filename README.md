@@ -47,6 +47,7 @@
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2881-split-strings-by-separator](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2881-split-strings-by-separator) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3324-split-the-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3324-split-the-array) |
 | [3429-special-array-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3429-special-array-i) |
 ## Greedy
 |  |
@@ -154,6 +155,7 @@
 | [2547-odd-string-difference](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2547-odd-string-difference) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3324-split-the-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3324-split-the-array) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 ## Sorting
 |  |
@@ -199,6 +201,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
+| [3324-split-the-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3324-split-the-array) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 ## Matrix
 |  |
