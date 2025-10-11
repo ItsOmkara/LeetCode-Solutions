@@ -87,6 +87,7 @@
 | [0010-regular-expression-matching](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0043-multiply-strings](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -213,6 +214,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
@@ -236,6 +238,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
+| [0043-multiply-strings](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0069-sqrtx) |
