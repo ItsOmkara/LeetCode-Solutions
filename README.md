@@ -43,6 +43,7 @@
 | [2102-find-the-middle-index-in-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2102-find-the-middle-index-in-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2547-odd-string-difference](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2547-odd-string-difference) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
