@@ -51,6 +51,7 @@
 | [3206-find-common-elements-between-two-arrays](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3324-split-the-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3324-split-the-array) |
 | [3429-special-array-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3429-special-array-i) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 ## Greedy
 |  |
 | ------- |
