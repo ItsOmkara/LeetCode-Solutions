@@ -52,6 +52,7 @@
 | [3324-split-the-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3324-split-the-array) |
 | [3429-special-array-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3429-special-array-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -197,6 +198,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2210-find-target-indices-after-sorting-array) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Counting
 |  |
 | ------- |
