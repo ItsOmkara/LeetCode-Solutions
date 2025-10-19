@@ -24,6 +24,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0456-132-pattern](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0456-132-pattern) |
 | [0605-can-place-flowers](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
@@ -195,6 +196,7 @@
 | [0268-missing-number](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0456-132-pattern](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0456-132-pattern) |
 | [1046-max-consecutive-ones-iii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -230,6 +232,7 @@
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0394-decode-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0394-decode-string) |
+| [0456-132-pattern](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0456-132-pattern) |
 | [0735-asteroid-collision](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -335,4 +338,12 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0456-132-pattern) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
