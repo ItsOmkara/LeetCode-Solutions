@@ -37,6 +37,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1580-shuffle-the-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1646-kth-missing-positive-number](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1646-kth-missing-positive-number) |
 | [1651-shuffle-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -199,6 +200,7 @@
 | [0456-132-pattern](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0456-132-pattern) |
 | [1046-max-consecutive-ones-iii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1646-kth-missing-positive-number](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1646-kth-missing-positive-number) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Counting
