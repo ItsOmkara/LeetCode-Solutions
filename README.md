@@ -43,6 +43,7 @@
 | [1798-max-number-of-k-sum-pairs](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1833-find-the-highest-altitude) |
 | [2102-find-the-middle-index-in-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2102-find-the-middle-index-in-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -115,6 +116,7 @@
 | [1651-shuffle-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1651-shuffle-string) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2470-removing-stars-from-a-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2470-removing-stars-from-a-string) |
@@ -231,6 +233,7 @@
 | [0067-add-binary](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2428-equal-row-and-column-pairs](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
