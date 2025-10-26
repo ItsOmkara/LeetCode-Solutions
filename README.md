@@ -30,6 +30,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
+| [0932-monotonic-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0932-monotonic-array) |
 | [0979-di-string-match](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0979-di-string-match) |
 | [1046-max-consecutive-ones-iii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1319-unique-number-of-occurrences) |
