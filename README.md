@@ -114,6 +114,7 @@
 | [0443-string-compression](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
 | [0812-rotate-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0812-rotate-string) |
+| [0889-buddy-strings](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0889-buddy-strings) |
 | [0979-di-string-match](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0979-di-string-match) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1651-shuffle-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1651-shuffle-string) |
@@ -160,6 +161,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0889-buddy-strings](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0889-buddy-strings) |
 | [1319-unique-number-of-occurrences](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
