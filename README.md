@@ -44,6 +44,7 @@
 | [1646-kth-missing-positive-number](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1646-kth-missing-positive-number) |
 | [1651-shuffle-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1833-find-the-highest-altitude) |
 | [2102-find-the-middle-index-in-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2102-find-the-middle-index-in-array) |
@@ -122,6 +123,7 @@
 | [1651-shuffle-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1651-shuffle-string) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1904-second-largest-digit-in-a-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1904-second-largest-digit-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -171,6 +173,7 @@
 | [1392-find-the-difference-of-two-arrays](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1904-second-largest-digit-in-a-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1904-second-largest-digit-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -231,6 +234,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
@@ -330,6 +334,7 @@
 | [0136-single-number](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 ## String Matching
 |  |
 | ------- |
