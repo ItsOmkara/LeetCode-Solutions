@@ -32,6 +32,7 @@
 | [0724-find-pivot-index](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [0932-monotonic-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0932-monotonic-array) |
+| [0941-sort-array-by-parity](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0941-sort-array-by-parity) |
 | [0979-di-string-match](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0979-di-string-match) |
 | [1046-max-consecutive-ones-iii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1319-unique-number-of-occurrences) |
@@ -90,6 +91,7 @@
 | [0392-is-subsequence](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
+| [0941-sort-array-by-parity](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0941-sort-array-by-parity) |
 | [0979-di-string-match](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0979-di-string-match) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -198,6 +200,7 @@
 | [0268-missing-number](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0941-sort-array-by-parity](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0941-sort-array-by-parity) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
