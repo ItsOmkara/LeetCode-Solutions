@@ -266,6 +266,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0155-min-stack](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [0456-132-pattern](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0456-132-pattern) |
 | [0735-asteroid-collision](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
@@ -398,4 +399,8 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
