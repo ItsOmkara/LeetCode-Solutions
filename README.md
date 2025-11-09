@@ -27,6 +27,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0456-132-pattern](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0456-132-pattern) |
+| [0496-next-greater-element-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
@@ -170,6 +171,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0889-buddy-strings](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0889-buddy-strings) |
 | [1319-unique-number-of-occurrences](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -269,6 +271,7 @@
 | [0155-min-stack](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [0456-132-pattern](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0456-132-pattern) |
+| [0496-next-greater-element-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -387,6 +390,7 @@
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0456-132-pattern) |
+| [0496-next-greater-element-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 ## Ordered Set
 |  |
 | ------- |
