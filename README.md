@@ -123,6 +123,7 @@
 | [0889-buddy-strings](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0889-buddy-strings) |
 | [0979-di-string-match](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0979-di-string-match) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1532-reformat-the-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1532-reformat-the-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1651-shuffle-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1651-shuffle-string) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
