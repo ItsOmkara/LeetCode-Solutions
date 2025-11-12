@@ -230,6 +230,7 @@
 | [0268-missing-number](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0441-arranging-coins](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0441-arranging-coins) |
 | [0456-132-pattern](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0456-132-pattern) |
 | [1046-max-consecutive-ones-iii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
@@ -298,6 +299,7 @@
 | [0202-happy-number](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0415-add-strings) |
+| [0441-arranging-coins](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0441-arranging-coins) |
 | [3201-distribute-candies-among-children-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3201-distribute-candies-among-children-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Combinatorics
