@@ -138,6 +138,7 @@
 | [2547-odd-string-difference](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2547-odd-string-difference) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2881-split-strings-by-separator](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2881-split-strings-by-separator) |
+| [3207-make-three-strings-equal](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3207-make-three-strings-equal) |
 | [3636-check-balanced-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3636-check-balanced-string) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
