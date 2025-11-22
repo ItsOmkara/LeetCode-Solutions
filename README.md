@@ -61,6 +61,7 @@
 | [2547-odd-string-difference](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2547-odd-string-difference) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
+| [2784-check-if-array-is-good](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2784-check-if-array-is-good) |
 | [2881-split-strings-by-separator](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2881-split-strings-by-separator) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3324-split-the-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3324-split-the-array) |
@@ -196,6 +197,7 @@
 | [2447-merge-similar-items](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2447-merge-similar-items) |
 | [2547-odd-string-difference](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2547-odd-string-difference) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
+| [2784-check-if-array-is-good](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2784-check-if-array-is-good) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3324-split-the-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3324-split-the-array) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
@@ -221,6 +223,7 @@
 | [2210-find-target-indices-after-sorting-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2447-merge-similar-items](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2447-merge-similar-items) |
+| [2784-check-if-array-is-good](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2784-check-if-array-is-good) |
 ## Sliding Window
 |  |
 | ------- |
