@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0263-ugly-number](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0263-ugly-number) |
+| [0367-valid-perfect-square](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 ## Array
 |  |
 | ------- |
@@ -48,4 +49,8 @@
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
+## Binary Search
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
