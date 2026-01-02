@@ -4,11 +4,13 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0263-ugly-number](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0119-pascals-triangle-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0912-sort-an-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [1089-duplicate-zeros](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1089-duplicate-zeros) |
