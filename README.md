@@ -21,6 +21,7 @@
 | [1636-sort-array-by-increasing-frequency](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1929-concatenation-of-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1975-maximum-matrix-sum](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1975-maximum-matrix-sum) |
 | [2206-divide-array-into-equal-pairs](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2815-max-pair-sum-in-an-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2815-max-pair-sum-in-an-array) |
 | [3285-find-indices-of-stable-mountains](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3285-find-indices-of-stable-mountains) |
@@ -107,4 +108,12 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [1975-maximum-matrix-sum](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1975-maximum-matrix-sum) |
+## Matrix
+|  |
+| ------- |
+| [1975-maximum-matrix-sum](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1975-maximum-matrix-sum) |
 <!---LeetCode Topics End-->
