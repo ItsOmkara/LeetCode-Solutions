@@ -152,4 +152,8 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
