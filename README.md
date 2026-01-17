@@ -9,6 +9,7 @@
 | [0367-valid-perfect-square](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [1266-minimum-time-visiting-all-points](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1390-four-divisors) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Array
 |  |
 | ------- |
@@ -32,6 +33,7 @@
 | [2815-max-pair-sum-in-an-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2815-max-pair-sum-in-an-array) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3285-find-indices-of-stable-mountains](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3285-find-indices-of-stable-mountains) |
 | [3379-transformed-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3379-transformed-array) |
 | [3453-separate-squares-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3453-separate-squares-i) |
@@ -175,6 +177,7 @@
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Enumeration
 |  |
 | ------- |
