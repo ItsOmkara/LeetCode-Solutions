@@ -22,6 +22,7 @@
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1089-duplicate-zeros](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1089-duplicate-zeros) |
 | [1266-minimum-time-visiting-all-points](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1390-four-divisors](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1390-four-divisors) |
 | [1408-string-matching-in-an-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1408-string-matching-in-an-array) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -94,6 +95,7 @@
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [3453-separate-squares-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3453-separate-squares-i) |
 ## Bit Manipulation
 |  |
@@ -141,6 +143,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1975-maximum-matrix-sum) |
 ## Tree
@@ -187,5 +190,6 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1895-largest-magic-square) |
 <!---LeetCode Topics End-->
