@@ -39,6 +39,7 @@
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3285-find-indices-of-stable-mountains](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3285-find-indices-of-stable-mountains) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -78,6 +79,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Counting
 |  |
 | ------- |
@@ -102,6 +104,7 @@
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Simulation
 |  |
@@ -241,10 +244,16 @@
 |  |
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Trie
+|  |
+| ------- |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 <!---LeetCode Topics End-->
