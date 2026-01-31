@@ -18,6 +18,7 @@
 | [0075-sort-colors](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0085-maximal-rectangle](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0119-pascals-triangle-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0912-sort-an-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1089-duplicate-zeros](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1089-duplicate-zeros) |
@@ -117,6 +118,7 @@
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [3453-separate-squares-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3453-separate-squares-i) |
 ## Bit Manipulation
