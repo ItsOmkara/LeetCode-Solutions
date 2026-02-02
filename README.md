@@ -18,6 +18,7 @@
 | [0075-sort-colors](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0085-maximal-rectangle](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0119-pascals-triangle-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0912-sort-an-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -104,6 +105,7 @@
 | [0032-longest-valid-parentheses](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0119-pascals-triangle-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -119,6 +121,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0367-valid-perfect-square](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
