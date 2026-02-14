@@ -231,6 +231,7 @@
 | [0176-second-highest-salary](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0177-nth-highest-salary) |
 | [0577-employee-bonus](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0577-employee-bonus) |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 ## Geometry
 |  |
 | ------- |
