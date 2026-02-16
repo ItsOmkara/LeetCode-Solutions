@@ -140,12 +140,14 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [2206-divide-array-into-equal-pairs](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0912-sort-an-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
