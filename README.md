@@ -32,6 +32,7 @@
 | [1408-string-matching-in-an-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1408-string-matching-in-an-array) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1895-largest-magic-square) |
 | [1929-concatenation-of-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
