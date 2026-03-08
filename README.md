@@ -42,6 +42,7 @@
 | [1929-concatenation-of-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1975-maximum-matrix-sum](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1975-maximum-matrix-sum) |
+| [1980-find-unique-binary-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2206-divide-array-into-equal-pairs](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2815-max-pair-sum-in-an-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2815-max-pair-sum-in-an-array) |
@@ -71,6 +72,7 @@
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1980-find-unique-binary-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2206-divide-array-into-equal-pairs](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2815-max-pair-sum-in-an-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2815-max-pair-sum-in-an-array) |
@@ -102,6 +104,7 @@
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1980-find-unique-binary-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -336,6 +339,7 @@
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0401-binary-watch) |
+| [1980-find-unique-binary-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
 ## Rolling Hash
 |  |
 | ------- |
