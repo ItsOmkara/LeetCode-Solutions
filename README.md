@@ -280,6 +280,7 @@
 | [0181-employees-earning-more-than-their-managers](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0577-employee-bonus](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0577-employee-bonus) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
+| [1251-average-selling-price](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1251-average-selling-price) |
 ## Geometry
 |  |
 | ------- |
