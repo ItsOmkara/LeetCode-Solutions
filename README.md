@@ -37,6 +37,7 @@
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1895-largest-magic-square) |
@@ -125,6 +126,7 @@
 | [1200-minimum-absolute-difference](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -223,6 +225,7 @@
 | [1382-balance-a-binary-search-tree](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1975-maximum-matrix-sum) |
 ## Matrix
@@ -233,6 +236,7 @@
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1895-largest-magic-square](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1975-maximum-matrix-sum) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
