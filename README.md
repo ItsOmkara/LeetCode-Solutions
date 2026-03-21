@@ -69,6 +69,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -94,6 +95,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0032-longest-valid-parentheses](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
@@ -321,6 +323,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3634-minimum-removals-to-balance-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
