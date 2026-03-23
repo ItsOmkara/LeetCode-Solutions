@@ -40,6 +40,7 @@
 | [1727-largest-submatrix-with-rearrangements](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1895-largest-magic-square) |
 | [1929-concatenation-of-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -240,6 +241,7 @@
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1975-maximum-matrix-sum) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
