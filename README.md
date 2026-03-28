@@ -67,6 +67,7 @@
 | [3546-equal-sum-grid-partition-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3637-trionic-array-i) |
+| [3643-flip-square-submatrix-vertically](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3719-longest-balanced-subarray-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Hash Table
@@ -95,6 +96,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1089-duplicate-zeros](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1089-duplicate-zeros) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [3643-flip-square-submatrix-vertically](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3794-reverse-string-prefix](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3794-reverse-string-prefix) |
 ## String
 |  |
@@ -250,6 +252,7 @@
 | [1975-maximum-matrix-sum](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1975-maximum-matrix-sum) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3546-equal-sum-grid-partition-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
+| [3643-flip-square-submatrix-vertically](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Tree
 |  |
