@@ -24,6 +24,7 @@
 | [0085-maximal-rectangle](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0119-pascals-triangle-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0414-third-maximum-number](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0912-sort-an-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -132,6 +133,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0414-third-maximum-number](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0912-sort-an-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
