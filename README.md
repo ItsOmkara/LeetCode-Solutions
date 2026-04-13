@@ -43,6 +43,7 @@
 | [1636-sort-array-by-increasing-frequency](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1895-largest-magic-square) |
