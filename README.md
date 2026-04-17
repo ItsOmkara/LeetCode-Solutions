@@ -14,6 +14,7 @@
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Array
 |  |
 | ------- |
@@ -78,6 +79,7 @@
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -98,6 +100,7 @@
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Two Pointers
 |  |
 | ------- |
