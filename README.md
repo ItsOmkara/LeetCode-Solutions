@@ -15,6 +15,7 @@
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3783-mirror-distance-of-an-integer](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Array
 |  |
 | ------- |
