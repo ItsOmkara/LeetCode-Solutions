@@ -43,6 +43,7 @@
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -302,6 +303,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -418,4 +420,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0258-add-digits) |
+## Union-Find
+|  |
+| ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 <!---LeetCode Topics End-->
