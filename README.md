@@ -100,6 +100,7 @@
 | [0073-set-matrix-zeroes](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1370-increasing-decreasing-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1370-increasing-decreasing-string) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1980-find-unique-binary-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
@@ -137,6 +138,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [1370-increasing-decreasing-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1370-increasing-decreasing-string) |
 | [1408-string-matching-in-an-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1408-string-matching-in-an-array) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -158,6 +160,7 @@
 |  |
 | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1370-increasing-decreasing-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1370-increasing-decreasing-string) |
 | [2206-divide-array-into-equal-pairs](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2833-furthest-point-from-origin](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2833-furthest-point-from-origin) |
