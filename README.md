@@ -366,6 +366,7 @@
 | [0181-employees-earning-more-than-their-managers](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0511-game-play-analysis-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0511-game-play-analysis-i) |
 | [0577-employee-bonus](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0577-employee-bonus) |
+| [0584-find-customer-referee](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0584-find-customer-referee) |
 | [0607-sales-person](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0607-sales-person) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1251-average-selling-price](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1251-average-selling-price) |
