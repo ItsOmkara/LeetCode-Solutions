@@ -145,6 +145,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0796-rotate-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1370-increasing-decreasing-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1370-increasing-decreasing-string) |
 | [1408-string-matching-in-an-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1408-string-matching-in-an-array) |
@@ -283,6 +284,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [1408-string-matching-in-an-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1408-string-matching-in-an-array) |
 ## Stack
 |  |
