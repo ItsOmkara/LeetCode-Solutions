@@ -18,7 +18,6 @@ class Solution {
 
             ans = Math.max(ans, max);
         }
-
         return ans;
     }
 }
