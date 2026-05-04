@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0258-add-digits) |
@@ -24,6 +25,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0048-rotate-image](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
@@ -304,6 +306,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
