@@ -76,6 +76,7 @@
 | [2206-divide-array-into-equal-pairs](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2615-sum-of-distances](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2615-sum-of-distances) |
 | [2815-max-pair-sum-in-an-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2815-max-pair-sum-in-an-array) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -234,6 +235,7 @@
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1914-cyclically-rotating-a-grid](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [1929-concatenation-of-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3379-transformed-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
