@@ -78,6 +78,7 @@
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2615-sum-of-distances](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2615-sum-of-distances) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2815-max-pair-sum-in-an-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2815-max-pair-sum-in-an-array) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -219,6 +220,7 @@
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
