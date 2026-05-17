@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0066-plus-one) |
@@ -145,6 +146,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0031-next-permutation](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
