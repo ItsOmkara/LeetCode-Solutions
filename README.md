@@ -97,6 +97,7 @@
 | [2976-minimum-cost-to-convert-string-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3285-find-indices-of-stable-mountains](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3285-find-indices-of-stable-mountains) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -143,6 +144,7 @@
 | [2784-check-if-array-is-good](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2784-check-if-array-is-good) |
 | [2815-max-pair-sum-in-an-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2815-max-pair-sum-in-an-array) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3488-closest-equal-element-queries](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3488-closest-equal-element-queries) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -195,6 +197,7 @@
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3794-reverse-string-prefix](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3794-reverse-string-prefix) |
 ## Counting
 |  |
@@ -490,6 +493,7 @@
 | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Binary Search Tree
 |  |
 | ------- |
