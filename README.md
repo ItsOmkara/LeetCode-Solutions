@@ -27,6 +27,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0066-plus-one) |
@@ -265,6 +266,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
