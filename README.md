@@ -53,6 +53,7 @@
 | [1266-minimum-time-visiting-all-points](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1306-jump-game-iii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1306-jump-game-iii) |
+| [1340-jump-game-v](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1345-jump-game-iv) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1390-four-divisors) |
@@ -216,6 +217,7 @@
 | [0414-third-maximum-number](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0912-sort-an-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
+| [1340-jump-game-v](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1340-jump-game-v) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -240,6 +242,7 @@
 | [0396-rotate-function](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0396-rotate-function) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0788-rotated-digits](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0788-rotated-digits) |
+| [1340-jump-game-v](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1340-jump-game-v) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
