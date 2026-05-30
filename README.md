@@ -103,6 +103,7 @@
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3093-longest-common-suffix-queries](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3093-longest-common-suffix-queries) |
+| [3161-block-placement-queries](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3161-block-placement-queries) |
 | [3285-find-indices-of-stable-mountains](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3285-find-indices-of-stable-mountains) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -293,6 +294,7 @@
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
+| [3161-block-placement-queries](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3161-block-placement-queries) |
 | [3453-separate-squares-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3453-separate-squares-i) |
 | [3488-closest-equal-element-queries](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3488-closest-equal-element-queries) |
 ## Bit Manipulation
@@ -515,6 +517,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [3161-block-placement-queries](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3161-block-placement-queries) |
 | [3719-longest-balanced-subarray-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Backtracking
 |  |
@@ -545,4 +548,8 @@
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3161-block-placement-queries) |
 <!---LeetCode Topics End-->
