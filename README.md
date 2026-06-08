@@ -88,6 +88,7 @@
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2206-divide-array-into-equal-pairs](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -179,6 +180,7 @@
 | [1089-duplicate-zeros](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1089-duplicate-zeros) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [3643-flip-square-submatrix-vertically](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3794-reverse-string-prefix](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3794-reverse-string-prefix) |
@@ -288,6 +290,7 @@
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1914-cyclically-rotating-a-grid](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [1929-concatenation-of-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3379-transformed-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3379-transformed-array) |
