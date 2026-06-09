@@ -128,6 +128,7 @@
 | [3651-minimum-cost-path-with-teleportations](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3660-jump-game-ix](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3660-jump-game-ix) |
+| [3689-maximum-total-subarray-value-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -383,6 +384,7 @@
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3689-maximum-total-subarray-value-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
 ## Matrix
 |  |
 | ------- |
