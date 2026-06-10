@@ -129,6 +129,7 @@
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3660-jump-game-ix](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3660-jump-game-ix) |
 | [3689-maximum-total-subarray-value-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -345,6 +346,7 @@
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -385,6 +387,7 @@
 | [2126-destroying-asteroids](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3689-maximum-total-subarray-value-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -543,6 +546,7 @@
 |  |
 | ------- |
 | [3161-block-placement-queries](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3161-block-placement-queries) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Backtracking
 |  |
