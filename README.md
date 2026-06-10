@@ -47,6 +47,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0396-rotate-function](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0396-rotate-function) |
 | [0414-third-maximum-number](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
+| [0485-max-consecutive-ones](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
