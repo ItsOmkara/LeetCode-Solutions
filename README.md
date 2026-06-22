@@ -49,6 +49,7 @@
 | [0152-maximum-product-subarray](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
@@ -338,6 +339,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
