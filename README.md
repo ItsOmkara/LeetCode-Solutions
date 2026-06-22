@@ -18,6 +18,7 @@
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1840-maximum-building-height](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1840-maximum-building-height) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2485-find-the-pivot-integer](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2485-find-the-pivot-integer) |
 | [2769-find-the-maximum-achievable-number](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -528,6 +529,7 @@
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1895-largest-magic-square](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1895-largest-magic-square) |
+| [2485-find-the-pivot-integer](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2615-sum-of-distances) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
