@@ -309,6 +309,7 @@
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3660-jump-game-ix](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3660-jump-game-ix) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -539,6 +540,7 @@
 | [2615-sum-of-distances](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2615-sum-of-distances) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Linked List
 |  |
