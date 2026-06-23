@@ -80,6 +80,7 @@
 | [1559-detect-cycles-in-2d-grid](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1646-get-maximum-in-generated-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1646-get-maximum-in-generated-array) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -328,6 +329,7 @@
 | [0258-add-digits](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1646-get-maximum-in-generated-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1646-get-maximum-in-generated-array) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1914-cyclically-rotating-a-grid](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [1929-concatenation-of-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
