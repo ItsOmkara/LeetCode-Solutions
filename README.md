@@ -207,6 +207,7 @@
 | [0088-merge-sorted-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0844-backspace-string-compare](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1089-duplicate-zeros) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -232,6 +233,7 @@
 | [0657-robot-return-to-origin](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0796-rotate-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0796-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1189-maximum-number-of-balloons](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -335,6 +337,7 @@
 | [0067-add-binary](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0657-robot-return-to-origin) |
+| [0844-backspace-string-compare](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1646-get-maximum-in-generated-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1646-get-maximum-in-generated-array) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -430,6 +433,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
+| [0844-backspace-string-compare](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 ## Greedy
 |  |
 | ------- |
