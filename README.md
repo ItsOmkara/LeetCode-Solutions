@@ -229,6 +229,7 @@
 | [0072-edit-distance](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0424-longest-repeating-character-replacement](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0516-longest-palindromic-subsequence](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -313,6 +314,7 @@
 | [0152-maximum-product-subarray](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0396-rotate-function](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0396-rotate-function) |
+| [0516-longest-palindromic-subsequence](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0788-rotated-digits](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0788-rotated-digits) |
 | [1340-jump-game-v](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1340-jump-game-v) |
