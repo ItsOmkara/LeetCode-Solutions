@@ -154,6 +154,7 @@
 | [3691-maximum-total-subarray-value-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -199,6 +200,7 @@
 | [3692-majority-frequency-characters](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3692-majority-frequency-characters) |
 | [3719-longest-balanced-subarray-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3843-first-element-with-unique-frequency](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3843-first-element-with-unique-frequency) |
@@ -407,6 +409,7 @@
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -420,6 +423,7 @@
 | ------- |
 | [0912-sort-an-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -575,6 +579,7 @@
 | [3699-number-of-zigzag-arrays-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -631,6 +636,7 @@
 | [3691-maximum-total-subarray-value-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Backtracking
 |  |
 | ------- |
