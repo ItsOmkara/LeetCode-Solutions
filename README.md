@@ -72,6 +72,7 @@
 | [1200-minimum-absolute-difference](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1301-number-of-paths-with-max-score](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1345-jump-game-iv) |
@@ -334,6 +335,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0788-rotated-digits](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0788-rotated-digits) |
+| [1301-number-of-paths-with-max-score](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1340-jump-game-v) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -489,6 +491,7 @@
 | [0073-set-matrix-zeroes](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1301-number-of-paths-with-max-score](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
