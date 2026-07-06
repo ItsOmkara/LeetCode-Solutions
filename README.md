@@ -40,6 +40,7 @@
 | [0031-next-permutation](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
@@ -172,6 +173,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -240,6 +242,7 @@
 | [0008-string-to-integer-atoi](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0032-longest-valid-parentheses](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0424-longest-repeating-character-replacement](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -298,6 +301,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0414-third-maximum-number](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
