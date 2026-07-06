@@ -71,6 +71,7 @@
 | [1089-duplicate-zeros](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1089-duplicate-zeros) |
 | [1200-minimum-absolute-difference](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
+| [1288-remove-covered-intervals](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1301-number-of-paths-with-max-score](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1306-jump-game-iii) |
@@ -304,6 +305,7 @@
 | [0912-sort-an-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
+| [1288-remove-covered-intervals](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1340-jump-game-v](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1340-jump-game-v) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
