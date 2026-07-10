@@ -151,6 +151,7 @@
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
@@ -236,6 +237,7 @@
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3794-reverse-string-prefix](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3794-reverse-string-prefix) |
 ## String
@@ -331,6 +333,7 @@
 | [2784-check-if-array-is-good](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2784-check-if-array-is-good) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3634-minimum-removals-to-balance-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 ## Dynamic Programming
 |  |
@@ -354,6 +357,7 @@
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -407,6 +411,7 @@
 | [3453-separate-squares-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3453-separate-squares-i) |
 | [3488-closest-equal-element-queries](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3488-closest-equal-element-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
 ## Bit Manipulation
 |  |
@@ -425,6 +430,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Divide and Conquer
 |  |
@@ -493,6 +499,7 @@
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Matrix
@@ -655,6 +662,7 @@
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
