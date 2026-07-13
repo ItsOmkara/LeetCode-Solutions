@@ -611,6 +611,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1291-sequential-digits) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
