@@ -13,6 +13,7 @@
 | [0396-rotate-function](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0396-rotate-function) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0788-rotated-digits](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0788-rotated-digits) |
+| [1025-divisor-game](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1025-divisor-game) |
 | [1266-minimum-time-visiting-all-points](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1390-four-divisors) |
@@ -357,6 +358,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0788-rotated-digits](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0788-rotated-digits) |
+| [1025-divisor-game](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1025-divisor-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1340-jump-game-v) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
@@ -750,4 +752,12 @@
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
