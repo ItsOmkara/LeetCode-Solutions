@@ -19,6 +19,7 @@
 | [1390-four-divisors](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1390-four-divisors) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1840-maximum-building-height](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1840-maximum-building-height) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2396-strictly-palindromic-number](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
 | [2485-find-the-pivot-integer](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2485-find-the-pivot-integer) |
@@ -116,6 +117,7 @@
 | [1929-concatenation-of-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1975-maximum-matrix-sum](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1975-maximum-matrix-sum) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -747,6 +749,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
