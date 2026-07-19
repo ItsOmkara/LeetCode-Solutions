@@ -278,6 +278,7 @@
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0796-rotate-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -511,10 +512,12 @@
 | [0085-maximal-rectangle](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0844-backspace-string-compare](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1382-balance-a-binary-search-tree](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -613,6 +616,7 @@
 | ------- |
 | [0085-maximal-rectangle](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Database
 |  |
 | ------- |
