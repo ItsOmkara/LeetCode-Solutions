@@ -33,6 +33,7 @@
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -237,6 +238,7 @@
 | [3488-closest-equal-element-queries](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3488-closest-equal-element-queries) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3692-majority-frequency-characters](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3692-majority-frequency-characters) |
@@ -319,6 +321,7 @@
 | [3499-maximize-active-section-with-trade-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3614-process-string-with-special-operations-ii) |
 | [3692-majority-frequency-characters](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3692-majority-frequency-characters) |
@@ -338,6 +341,7 @@
 | [2287-rearrange-characters-to-make-target-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2833-furthest-point-from-origin](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2833-furthest-point-from-origin) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3692-majority-frequency-characters](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3692-majority-frequency-characters) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3843-first-element-with-unique-frequency](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3843-first-element-with-unique-frequency) |
@@ -821,4 +825,5 @@
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->
