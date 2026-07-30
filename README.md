@@ -26,6 +26,7 @@
 | [2485-find-the-pivot-integer](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2485-find-the-pivot-integer) |
 | [2769-find-the-maximum-achievable-number](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -314,6 +315,7 @@
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -561,6 +563,7 @@
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3691-maximum-total-subarray-value-ii) |
