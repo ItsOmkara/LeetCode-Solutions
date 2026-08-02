@@ -14,6 +14,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1025-divisor-game) |
 | [1266-minimum-time-visiting-all-points](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -81,6 +82,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [0941-valid-mountain-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0941-valid-mountain-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -404,6 +406,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0788-rotated-digits](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1025-divisor-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1340-jump-game-v) |
@@ -831,6 +834,7 @@
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1025-divisor-game) |
 ## Combinatorics
 |  |
