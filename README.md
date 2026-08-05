@@ -80,6 +80,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0624-maximum-distance-in-arrays](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
@@ -562,6 +563,7 @@
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
+| [0624-maximum-distance-in-arrays](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1382-balance-a-binary-search-tree](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
