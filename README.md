@@ -16,6 +16,7 @@
 | [0788-rotated-digits](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1025-divisor-game) |
+| [1140-stone-game-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1266-minimum-time-visiting-all-points](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1390-four-divisors) |
@@ -92,6 +93,7 @@
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1089-duplicate-zeros) |
+| [1140-stone-game-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1200-minimum-absolute-difference](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1260-shift-2d-grid](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
@@ -416,6 +418,7 @@
 | [0788-rotated-digits](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1025-divisor-game) |
+| [1140-stone-game-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1340-jump-game-v) |
 | [1406-stone-game-iii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
@@ -711,6 +714,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1140-stone-game-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
@@ -852,10 +856,19 @@
 | ------- |
 | [0877-stone-game](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1025-divisor-game) |
+| [1140-stone-game-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 ## Combinatorics
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
