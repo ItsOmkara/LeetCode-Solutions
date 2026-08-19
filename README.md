@@ -107,6 +107,7 @@
 | [1340-jump-game-v](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1345-jump-game-iv) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1386-cinema-seat-allocation](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1390-four-divisors](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1390-four-divisors) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1406-stone-game-iii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
@@ -234,6 +235,7 @@
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1370-increasing-decreasing-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1370-increasing-decreasing-string) |
+| [1386-cinema-seat-allocation](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -519,6 +521,7 @@
 | [0868-binary-gap](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0868-binary-gap) |
 | [1009-complement-of-base-10-integer](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1009-complement-of-base-10-integer) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1386-cinema-seat-allocation](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2206-divide-array-into-equal-pairs](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
@@ -592,6 +595,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1382-balance-a-binary-search-tree](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
+| [1386-cinema-seat-allocation](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
