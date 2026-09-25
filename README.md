@@ -248,6 +248,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1096-brace-expansion-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1345-jump-game-iv) |
@@ -345,6 +346,7 @@
 | [0796-rotate-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -422,6 +424,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1096-brace-expansion-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1200-minimum-absolute-difference](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -631,6 +634,7 @@
 | [0402-remove-k-digits](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0844-backspace-string-compare](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -724,6 +728,7 @@
 |  |
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1096-brace-expansion-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1306-jump-game-iii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1345-jump-game-iv) |
@@ -886,6 +891,7 @@
 | ------- |
 | [0078-subsets](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0401-binary-watch](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0401-binary-watch) |
+| [1096-brace-expansion-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1980-find-unique-binary-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Rolling Hash
