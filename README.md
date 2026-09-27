@@ -350,6 +350,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -638,6 +639,7 @@
 | [0844-backspace-string-compare](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Greedy
 |  |
 | ------- |
@@ -990,4 +992,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
