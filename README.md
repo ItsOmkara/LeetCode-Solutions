@@ -157,6 +157,7 @@
 | [2029-stone-game-ix](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -463,6 +464,7 @@
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -570,6 +572,7 @@
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2540-minimum-common-value](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
