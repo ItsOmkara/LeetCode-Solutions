@@ -269,6 +269,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1096-brace-expansion-ii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
@@ -336,6 +337,7 @@
 | [0088-merge-sorted-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1089-duplicate-zeros) |
@@ -369,6 +371,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -922,6 +925,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/ItsOmkara/LeetCode-Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
